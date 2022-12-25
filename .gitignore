@@ -199,4 +199,7 @@ UE/!Build/Android/res/*/*.png
 UE/Plugins/**/Binaries/*
 UE/Plugins/**/Intermediate/*
 
+#fiels
+*.hdalc
+
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
